@@ -15,13 +15,14 @@ This is a command-line interface (CLI) application built with Go that lets users
 To get this application up and running, you'll need Go installed on your system.
 
 1. Clone the Repository:
-      git clone https://github.com/TeamiruTesfahun/Go-Conference-Booking-CLI.git
+   ```
+   git clone https://github.com/TeamiruTesfahun/Go-Conference-Booking-CLI.git
    cd Go-Conference-Booking-CLI
-   
-
-2. Run the Application:
-      go run main.go
-   
+   ```
+3. Run the Application:
+   ```     
+   go run main.go
+   ```
 
 ## How to Use
 
